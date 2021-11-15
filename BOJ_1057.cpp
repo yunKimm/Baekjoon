@@ -1,5 +1,6 @@
 // BOJ_1057 토너먼트
 // [성공]
+// 수학, 브루트포스
 
 #include <iostream>
 #include <cstdlib>
