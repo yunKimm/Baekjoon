@@ -29,7 +29,7 @@ void changeNum(){
 void tournament(){
     int round = 1;
     while(true){
-        if((abs(J-H)==1)&&(ifSameNextRound(J)==ifSameNextRound(H))){
+        if(ifSameNextRound(J)==ifSameNextRound(H)){
             cout << round;
             break;
         }
